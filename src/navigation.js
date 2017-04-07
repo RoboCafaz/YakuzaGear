@@ -99,3 +99,21 @@ app.component("partsComponent", {
 		}
 	]
 });
+
+app.component("rarityDisplay", {
+	bindings: {
+		rarity: '<'
+	},
+	templateUrl: "parts/rarityDisplay.html",
+	controller: ["$scope", function ($scope) {
+			var loadRarity = function (count) {
+				var array = new Array(10);
+				array.fill(true);
+				array.fill(false, count);
+				$scope.RarityA = array.splice(0, 5);
+				$scope.RarityB = array;
+			};
+			loadRarity(10);
+		}
+	]
+});
