@@ -1,0 +1,578 @@
+[{
+		"Id": "A0",
+		"Name": "Iron",
+		"Rarity": 1,
+		"Available": [2,5,7],
+		"Guaranteed": [1,3,17,35,46,53]
+	}, {
+		"Id": "A1",
+		"Name": "Lead Ingot",
+		"Rarity": 1,
+		"Available": [2,5,7,35],
+		"Guaranteed": []
+	}, {
+		"Id": "A2",
+		"Name": "Screw",
+		"Rarity": 2,
+		"Available": [5,7,35,50],
+		"Guaranteed": [2,4,18,25,36]
+	}, {
+		"Id": "A3",
+		"Name": "Spring",
+		"Rarity": 2,
+		"Available": [2,5,7,50],
+		"Guaranteed": [6,16,17,35,37,46,47]
+	}, {
+		"Id": "A4",
+		"Name": "Chain",
+		"Rarity": 3,
+		"Available": [2,7,27,35,50],
+		"Guaranteed": [3,5,36,53]
+	}, {
+		"Id": "A5",
+		"Name": "Quality Iron",
+		"Rarity": 3,
+		"Available": [2,5,27],
+		"Guaranteed": [1,6,7,15,35]
+	}, {
+		"Id": "A6",
+		"Name": "Steel",
+		"Rarity": 4,
+		"Available": [5,7,27],
+		"Guaranteed": [2,4,8,15,17,30,37,46]
+	}, {
+		"Id": "A7",
+		"Name": "Quality Screw",
+		"Rarity": 4,
+		"Available": [5,7,27,50],
+		"Guaranteed": [17,47]
+	}, {
+		"Id": "A8",
+		"Name": "Black Metal Powder",
+		"Rarity": 5,
+		"Available": [5,7,10,27,50],
+		"Guaranteed": []
+	}, {
+		"Id": "A9",
+		"Name": "White Metal Powder",
+		"Rarity": 5,
+		"Available": [5,7,10,27,50],
+		"Guaranteed": []
+	}, {
+		"Id": "B0",
+		"Name": "Silver Metal Powder",
+		"Rarity": 6,
+		"Available": [7,10,14,27,45,50],
+		"Guaranteed": []
+	}, {
+		"Id": "B1",
+		"Name": "Gold Metal Powder",
+		"Rarity": 6,
+		"Available": [7,10,14,27,45,50],
+		"Guaranteed": []
+	}, {
+		"Id": "B2",
+		"Name": "Shape Memory Alloy",
+		"Rarity": 7,
+		"Available": [7,10,14,45,50],
+		"Guaranteed": [20,22,24,27,52,56]
+	}, {
+		"Id": "B3",
+		"Name": "Silver Ingot",
+		"Rarity": 8,
+		"Available": [10,14,27,45,50],
+		"Guaranteed": []
+	}, {
+		"Id": "B4",
+		"Name": "Gold Ingot",
+		"Rarity": 9,
+		"Available": [27,45,50],
+		"Guaranteed": [10,12,14,21,24,29,34,41,51,55,56]
+	}, {
+		"Id": "B5",
+		"Name": "Grinding Stone",
+		"Rarity": 1,
+		"Available": [17,19,20,25,26,53,55],
+		"Guaranteed": [1,3,5,16,36,47]
+	}, {
+		"Id": "B6",
+		"Name": "Magnet",
+		"Rarity": 1,
+		"Available": [17,20,26,36,53],
+		"Guaranteed": [3,25,35,37,46]
+	}, {
+		"Id": "B7",
+		"Name": "Volcanic Rock",
+		"Rarity": 2,
+		"Available": [17,20,25,26,36,38,53],
+		"Guaranteed": []
+	}, {
+		"Id": "B8",
+		"Name": "Glass",
+		"Rarity": 2,
+		"Available": [17,19,20,25,26,36,53],
+		"Guaranteed": []
+	}, {
+		"Id": "B9",
+		"Name": "Obsidian",
+		"Rarity": 3,
+		"Available": [17,19,20,25,26,36,38,39,41,53],
+		"Guaranteed": []
+	}, {
+		"Id": "C0",
+		"Name": "Amber",
+		"Rarity": 3,
+		"Available": [17,19,20,25,26,36,38,39,41],
+		"Guaranteed": [53]
+	}, {
+		"Id": "C1",
+		"Name": "Fluorite",
+		"Rarity": 3,
+		"Available": [12,13,17,19,20,25,26,38,39,41,53,54,56],
+		"Guaranteed": []
+	}, {
+		"Id": "C2",
+		"Name": "Tourmaline",
+		"Rarity": 5,
+		"Available": [10,12,13,17,19,20,38,39,41,51,53,54,55,56],
+		"Guaranteed": [25,26]
+	}, {
+		"Id": "C3",
+		"Name": "Crystal",
+		"Rarity": 6,
+		"Available": [10,12,13,20,26,38,39,41,51,54,55,56],
+		"Guaranteed": []
+	}, {
+		"Id": "C4",
+		"Name": "Emerald",
+		"Rarity": 7,
+		"Available": [10,12,13,20,26,38,39,41,51,54,55,56],
+		"Guaranteed": []
+	}, {
+		"Id": "C5",
+		"Name": "Pearl",
+		"Rarity": 8,
+		"Available": [10,12,13,41,51,54,55,56],
+		"Guaranteed": []
+	}, {
+		"Id": "C6",
+		"Name": "Ruby",
+		"Rarity": 8,
+		"Available": [10,12,13,41,51,54,55,56],
+		"Guaranteed": []
+	}, {
+		"Id": "C7",
+		"Name": "Diamond",
+		"Rarity": 9,
+		"Available": [10,12,13,41,51,54,55,56],
+		"Guaranteed": []
+	}, {
+		"Id": "C8",
+		"Name": "Rainbow Shard",
+		"Rarity": 9,
+		"Available": [10,12,41,51,54,55,56],
+		"Guaranteed": [21,23,29,32,45]
+	}, {
+		"Id": "C9",
+		"Name": "Mystery Stone",
+		"Rarity": 10,
+		"Available": [13],
+		"Guaranteed": [42,54,55,56]
+	}, {
+		"Id": "D0",
+		"Name": "Iron Gear",
+		"Rarity": 2,
+		"Available": [6,9,15,17,31,33,37,43,46,53],
+		"Guaranteed": []
+	}, {
+		"Id": "D1",
+		"Name": "IC Chip",
+		"Rarity": 3,
+		"Available": [15,18,31,33,37,43,46,50,53],
+		"Guaranteed": [3,4,6,9]
+	}, {
+		"Id": "D2",
+		"Name": "Printed Circuit Board",
+		"Rarity": 4,
+		"Available": [6,9,12,18,28,31,33,37,43,53],
+		"Guaranteed": [22,44,47,50]
+	}, {
+		"Id": "D3",
+		"Name": "High Performance PCB",
+		"Rarity": 6,
+		"Available": [12,31,33,50,52],
+		"Guaranteed": [9,22,23,28,43,44,45,48,49,51,54]
+	}, {
+		"Id": "D4",
+		"Name": "High-Voltage Battery Prototype",
+		"Rarity": 8,
+		"Available": [12,28,50,52],
+		"Guaranteed": [9,10,14,31,33,57]
+	}, {
+		"Id": "D5",
+		"Name": "Gravity Converter Test Device",
+		"Rarity": 10,
+		"Available": [33],
+		"Guaranteed": [14,28,34,40,49,52]
+	}, {
+		"Id": "D6",
+		"Name": "Plastic",
+		"Rarity": 1,
+		"Available": [1,15,30,36],
+		"Guaranteed": []
+	}, {
+		"Id": "D7",
+		"Name": "Rubber",
+		"Rarity": 2,
+		"Available": [1,9,15,30,36],
+		"Guaranteed": []
+	}, {
+		"Id": "D8",
+		"Name": "Reinforced Plastic",
+		"Rarity": 4,
+		"Available": [9,21,30,34,45],
+		"Guaranteed": [36,37,38,39]
+	}, {
+		"Id": "D9",
+		"Name": "Petroleum Coke",
+		"Rarity": 6,
+		"Available": [9,21,34],
+		"Guaranteed": [30,37,39,41]
+	}, {
+		"Id": "E0",
+		"Name": "Synthetic Fiber",
+		"Rarity": 8,
+		"Available": [21,34],
+		"Guaranteed": []
+	}, {
+		"Id": "E1",
+		"Name": "Dry Branch",
+		"Rarity": 1,
+		"Available": [3,4,17,19,26],
+		"Guaranteed": []
+	}, {
+		"Id": "E2",
+		"Name": "Carved Wooden Bear",
+		"Rarity": 1,
+		"Available": [3,4,17,19,26],
+		"Guaranteed": []
+	}, {
+		"Id": "E3",
+		"Name": "Timber",
+		"Rarity": 2,
+		"Available": [3,4,17,19,31,26,38,44],
+		"Guaranteed": [1,2]
+	}, {
+		"Id": "E4",
+		"Name": "Driftwood",
+		"Rarity": 3,
+		"Available": [3,4,11,17,26,27,31,38,40,44],
+		"Guaranteed": [15,19,25,46]
+	}, {
+		"Id": "E5",
+		"Name": "Carbon Fiber",
+		"Rarity": 4,
+		"Available": [11,17,23,26,27,31,40,44,49],
+		"Guaranteed": [4,5,7,19,38,39,48,57]
+	}, {
+		"Id": "E6",
+		"Name": "Sturdy Wood",
+		"Rarity": 4,
+		"Available": [11,17,23,26,27,31,38,40,44,49],
+		"Guaranteed": [16,19]
+	}, {
+		"Id": "E7",
+		"Name": "Ash Wood",
+		"Rarity": 5,
+		"Available": [4,11,17,19,22,23,26,27,31,32,38,40,44,49],
+		"Guaranteed": []
+	}, {
+		"Id": "E8",
+		"Name": "Sacred Leaves",
+		"Rarity": 6,
+		"Available": [22,23,26,27,29,31,38,40,49],
+		"Guaranteed": [7,11,13,32,41,43,44,45,50,54]
+	}, {
+		"Id": "E9",
+		"Name": "Sacred Wood",
+		"Rarity": 8,
+		"Available": [11,22,27,32,40,44],
+		"Guaranteed": [23,39,41,42,52]
+	}, {
+		"Id": "F0",
+		"Name": "Yew Branch",
+		"Rarity": 9,
+		"Available": [11,22,23,27,29,32,40,44],
+		"Guaranteed": []
+	}, {
+		"Id": "F1",
+		"Name": "Animal Skin",
+		"Rarity": 1,
+		"Available": [21,32,34,43,47],
+		"Guaranteed": [2,4,15,18,36]
+	}, {
+		"Id": "F2",
+		"Name": "Pristine Skin",
+		"Rarity": 2,
+		"Available": [4,16,43,44,47,48],
+		"Guaranteed": []
+	}, {
+		"Id": "F3",
+		"Name": "Quality Leather",
+		"Rarity": 4,
+		"Available": [4,8,21,40,41,44,48],
+		"Guaranteed": [1,5,9,16,43,47]
+	}, {
+		"Id": "F4",
+		"Name": "Bear Skin",
+		"Rarity": 5,
+		"Available": [8,16,24,28,41,43,44,47,48],
+		"Guaranteed": [11,31,33,34,38,40,57]
+	}, {
+		"Id": "F5",
+		"Name": "Thoroughbred Mane",
+		"Rarity": 7,
+		"Available": [14,24,28,32,40,41,44,45],
+		"Guaranteed": [6,8,9,18,21,25,30,43,49]
+	}, {
+		"Id": "F6",
+		"Name": "Wild Beast Skin",
+		"Rarity": 8,
+		"Available": [14,21,28,32,40,41,45,57],
+		"Guaranteed": []
+	}, {
+		"Id": "F7",
+		"Name": "Divine Beast Skin",
+		"Rarity": 10,
+		"Available": [24],
+		"Guaranteed": [10,12,14,33,40,44,57]
+	}, {
+		"Id": "F8",
+		"Name": "Sturdy Thread",
+		"Rarity": 1,
+		"Available": [2,3,18,25,35,37,46],
+		"Guaranteed": []
+	}, {
+		"Id": "F9",
+		"Name": "Linen Cloth",
+		"Rarity": 2,
+		"Available": [2,3,18,25,31,35,37,46,48],
+		"Guaranteed": [16,19]
+	}, {
+		"Id": "G0",
+		"Name": "Indian Cotton Cloth",
+		"Rarity": 3,
+		"Available": [2,3,8,18,21,25,27,34,37,40,46,48],
+		"Guaranteed": [31,35]
+	}, {
+		"Id": "G1",
+		"Name": "Wool",
+		"Rarity": 5,
+		"Available": [13,21,23,25,27,31,34,37,40,48,49],
+		"Guaranteed": [8,18,20,43]
+	}, {
+		"Id": "G2",
+		"Name": "Silk Cloth",
+		"Rarity": 6,
+		"Available": [8,13,21,23,27,29,31,34,40,48,49],
+		"Guaranteed": []
+	}, {
+		"Id": "G3",
+		"Name": "Cashmere Cloth",
+		"Rarity": 7,
+		"Available": [8,23,27,29,31,40,48,49],
+		"Guaranteed": [7,12,13,20,21,24,26,32]
+	}, {
+		"Id": "G4",
+		"Name": "Rainbow Textile",
+		"Rarity": 9,
+		"Available": [13,21,23,27,29,34,40,49],
+		"Guaranteed": []
+	}, {
+		"Id": "G5",
+		"Name": "Firework Shell",
+		"Rarity": 2,
+		"Available": [2,4,6,26,30,33,43,46,47],
+		"Guaranteed": []
+	}, {
+		"Id": "G6",
+		"Name": "Gunpowder",
+		"Rarity": 4,
+		"Available": [4,6,19,26,28,30,33,38,43,47,56],
+		"Guaranteed": []
+	}, {
+		"Id": "G7",
+		"Name": "Enhanced Gunpowder",
+		"Rarity": 6,
+		"Available": [22,28,30,43,52,56],
+		"Guaranteed": [8,12,23,26,33,40,45,54,55]
+	}, {
+		"Id": "G8",
+		"Name": "Explosive",
+		"Rarity": 8,
+		"Available": [22,33,52],
+		"Guaranteed": [28,38,55,56]
+	}, {
+		"Id": "G9",
+		"Name": "Military Explosive",
+		"Rarity": 9,
+		"Available": [22,28,33,52,56],
+		"Guaranteed": []
+	}, {
+		"Id": "H0",
+		"Name": "Straw Effigy",
+		"Rarity": 1,
+		"Available": [16,19,20],
+		"Guaranteed": []
+	}, {
+		"Id": "H1",
+		"Name": "Happy Doll",
+		"Rarity": 1,
+		"Available": [16,19,20],
+		"Guaranteed": []
+	}, {
+		"Id": "H2",
+		"Name": "Jet Black Belt",
+		"Rarity": 2,
+		"Available": [16,19,33],
+		"Guaranteed": [15,18,20]
+	}, {
+		"Id": "H3",
+		"Name": "Cursed Handcuffs",
+		"Rarity": 3,
+		"Available": [11,16,19,20,33],
+		"Guaranteed": [17,26,53]
+	}, {
+		"Id": "H4",
+		"Name": "Water God Stone",
+		"Rarity": 3,
+		"Available": [11,16,19,20,33],
+		"Guaranteed": []
+	}, {
+		"Id": "H5",
+		"Name": "Flint Stone",
+		"Rarity": 3,
+		"Available": [11,16,19,20,33],
+		"Guaranteed": []
+	}, {
+		"Id": "H6",
+		"Name": "Bloodied Cloth",
+		"Rarity": 4,
+		"Available": [11,19,20,33,54],
+		"Guaranteed": [31,38,40,48,53]
+	}, {
+		"Id": "H7",
+		"Name": "Golden Seal",
+		"Rarity": 4,
+		"Available": [11,19,20,33,54],
+		"Guaranteed": []
+	}, {
+		"Id": "H8",
+		"Name": "Demon Face Stone",
+		"Rarity": 5,
+		"Available": [11,19,20,33,51,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "H9",
+		"Name": "Torn Sleeve Surcoat",
+		"Rarity": 5,
+		"Available": [19,33,51,54,55],
+		"Guaranteed": [5,6,8,11,20,31,46,48]
+	}, {
+		"Id": "I0",
+		"Name": "Great Serpent Skin",
+		"Rarity": 5,
+		"Available": [11,20,33,51,54,55],
+		"Guaranteed": [7,10,19,26,27,30,32,39]
+	}, {
+		"Id": "I1",
+		"Name": "Phoenix Feather",
+		"Rarity": 6,
+		"Available": [11,14,20,29,33,51,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "I2",
+		"Name": "Provincial Dojo Certificate",
+		"Rarity": 6,
+		"Available": [11,14,20,29,33,51,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "I3",
+		"Name": "Snakeskin Eyepatch",
+		"Rarity": 6,
+		"Available": [11,14,20,29,33,51,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "I4",
+		"Name": "Primeval Spirit Stone",
+		"Rarity": 7,
+		"Available": [11,20,54,55],
+		"Guaranteed": [14,28,29,32,34,48,50,51]
+	}, {
+		"Id": "I5",
+		"Name": "Crimson Bead",
+		"Rarity": 7,
+		"Available": [14,20,33,54,55],
+		"Guaranteed": [11,13,27,29,30,42,49,51]
+	}, {
+		"Id": "I6",
+		"Name": "Baiken's Chain",
+		"Rarity": 7,
+		"Available": [11,14,20,29,33,51,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "I7",
+		"Name": "Shishido's Sickle",
+		"Rarity": 8,
+		"Available": [11,14,29,33,51,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "I8",
+		"Name": "Swordmaster's Oar",
+		"Rarity": 8,
+		"Available": [11,14,29,33,51,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "I9",
+		"Name": "Golden Medicine Case",
+		"Rarity": 9,
+		"Available": [11,14,29,33,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "J0",
+		"Name": "Tattered Surcoat",
+		"Rarity": 9,
+		"Available": [11,14,29,33,54,55],
+		"Guaranteed": []
+	}, {
+		"Id": "J1",
+		"Name": "Dragon Tear",
+		"Rarity": 9,
+		"Available": [11,14,29,33,55],
+		"Guaranteed": [12,22,23,24,27,42,49]
+	}, {
+		"Id": "J2",
+		"Name": "Eye of the Dragon",
+		"Rarity": 10,
+		"Available": [14,33,55],
+		"Guaranteed": [10,11,27,29,41,50,52,54,56]
+	}, {
+		"Id": "J3",
+		"Name": "Godslayer Charm",
+		"Rarity": 10,
+		"Available": [14,29,33,55],
+		"Guaranteed": []
+	}, {
+		"Id": "J4",
+		"Name": "Dragon Whisker",
+		"Rarity": 10,
+		"Available": [14,29],
+		"Guaranteed": [13,22,28,33,42,50,51,52,55]
+	}, {
+		"Id": "J5",
+		"Name": "Dragon Fang",
+		"Rarity": 10,
+		"Available": [14,29,33,55],
+		"Guaranteed": [13,21,24,34,44,45,57]
+	}
+]

@@ -1,0 +1,106 @@
+Japan
+	Hercules Sporting Goods | 64,000
+		Homeless Man | 8,000
+			Timber
+			Knuckles
+			Metal Bat | 20
+			Wooden Driver | 20
+			Slime Spray | 20
+			Plastic | 30
+			Rubber | 30
+		Traveling Entertainer | 40,000
+			Grinding Stone
+			Umbrella
+			Metal Bat | 30
+			Spiked Bat | 10
+			Wooden Driver | 30
+			Slime Spray | 30
+			Plastic | 40
+			Rubber | 40
+		Backpacker | 40,000
+			Iron
+			Protective
+			Metal Bat | 30
+			Spiked Bat | 10
+			Wooden Driver | 30
+			Slime Spray | 30
+			Plastic | 40
+			Rubber | 40
+		Weapons Fanatic | 80,000
+			Quality Iron
+			Tonfa
+			Metal Bat | 40
+			Spiked Bat | 10
+			Wooden Driver | 30
+			Slime Spray | 30
+			Plastic | 30
+			Rubber | 40
+		Sexy Swindler | 160,000
+			Quality Leather
+			Ligher
+			MEtal Bat | 40
+			Spiked Bat | 10
+			Wooden Driver | 30
+			Slime Spray | 30
+			Plastic | 20
+			Rubber | 50
+	Neo Japan Kinki Branch | 60,000
+	The Hanafubuki Family | 76,000
+	Hunter's Village | 320,000
+	Local Dojo | 360,000
+	Neo Japan HQ | 400,000
+	Modern Samurai | 1,400,000
+	Kanto Yakuza Family | 1,440,000
+	Independent Inventor | 1,600,000
+	Blacksmith's Village | 4,000,000
+	Karate Master | 4,160,000
+	Corporate Research Lab | 4,240,000
+	Kinki Gokumonkai | 7,200,000
+	Hidden Ninja Village | 8,000,000
+N. America
+	"The Jackal" | 104,000
+	Inuit Village | 112,000
+	Grand Canyon | 560,000
+	Susahi Bar BANZAI | 520,000
+	Rocky Mountains | 480,000
+	Secret Base in Nevada | 2,000,000
+	NYC Mafia | 4,800,000
+	Mafia EL-38 | 5,6000,000
+	Mexican Mafia | 9,600,000	
+S. America
+	Jungle | 600,000
+	Brazilian Mafia | 2,160,000
+	Columbian Cartels | 4,960,000
+	Black Market | 5,120,000
+W. Europe
+	Soccer Stadium | 76,000
+	The Napolitano Family | 560,000
+	Underground Organization | 1,920,000
+	Sicilian Union | 4,800,000
+	The Guild | 4,880,000
+	Corsican Mafia | 11,200,000
+Africa
+	Marketplace | 560,000
+	Giza: Ancient Ruins | 4,640,000
+	Zimbabwe: Ancient Ruins | 4,800,000
+	Somali Coast | 14,400,000
+W. Asia
+	Ganges Delta | 76,000
+	Night Market | 88,000
+	Liberation Army Camp | 576,000
+	Indian Nobility | 1,600,000
+	Black Market Auction | 2,400,000
+	Nomad Camp | 4,640,000
+	Arab Mafia | 4,800,000
+	Arab Royalty | 20,000,000
+E. Europe
+	Balkan Mafia | 2,000,000
+	Variety Shop Khorosho | 4,640,000
+	"Kak Dela" | 9,600,000
+E. Asia
+	Underground Market | 1,6000,000
+	Tianlin Temple | 1,760,000
+	Lubao Teahouse | 4,000,000
+	Kowloon Walled City | 4,640,000
+	5JC | 8,800,000
+North Pole

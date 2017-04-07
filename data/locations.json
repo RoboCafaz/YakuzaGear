@@ -1,0 +1,401 @@
+[{
+		"Id": 1,
+		"Region": "Japan",
+		"Chapter": 0,
+		"Name": "Hercules Sporting Goods ",
+		"Minimum Budget": 64000,
+		"Secret": false
+	}, {
+		"Id": 2,
+		"Region": "Japan",
+		"Chapter": 0,
+		"Name": "Neo Japan Kinki Branch ",
+		"Minimum Budget": 60000,
+		"Secret": false
+	}, {
+		"Id": 3,
+		"Region": "Japan",
+		"Chapter": 0,
+		"Name": "The Hanafubuki Family ",
+		"Minimum Budget": 76000,
+		"Secret": false
+	}, {
+		"Id": 4,
+		"Region": "Japan",
+		"Chapter": 4,
+		"Name": "Hunter's Village ",
+		"Minimum Budget": 320000,
+		"Secret": false
+	}, {
+		"Id": 5,
+		"Region": "Japan",
+		"Chapter": 4,
+		"Name": "Local Dojo ",
+		"Minimum Budget": 360000,
+		"Secret": false
+	}, {
+		"Id": 6,
+		"Region": "Japan",
+		"Chapter": 4,
+		"Name": "Neo Japan HQ ",
+		"Minimum Budget": 400000,
+		"Secret": false
+	}, {
+		"Id": 7,
+		"Region": "Japan",
+		"Chapter": 7,
+		"Name": "Modern Samurai ",
+		"Minimum Budget": 1400000,
+		"Secret": false
+	}, {
+		"Id": 8,
+		"Region": "Japan",
+		"Chapter": 7,
+		"Name": "Kanto Yakuza Family ",
+		"Minimum Budget": 1440000,
+		"Secret": false
+	}, {
+		"Id": 9,
+		"Region": "Japan",
+		"Chapter": 7,
+		"Name": "Independent Inventor ",
+		"Minimum Budget": 1600000,
+		"Secret": false
+	}, {
+		"Id": 10,
+		"Region": "Japan",
+		"Chapter": 11,
+		"Name": "Blacksmith's Village ",
+		"Minimum Budget": 4000000,
+		"Secret": false
+	}, {
+		"Id": 11,
+		"Region": "Japan",
+		"Chapter": 11,
+		"Name": "Karate Master ",
+		"Minimum Budget": 4160000,
+		"Secret": false
+	}, {
+		"Id": 12,
+		"Region": "Japan",
+		"Chapter": 11,
+		"Name": "Corporate Research Lab ",
+		"Minimum Budget": 4240000,
+		"Secret": false
+	}, {
+		"Id": 13,
+		"Region": "Japan",
+		"Chapter": 15,
+		"Name": "Kinki Gokumonkai ",
+		"Minimum Budget": 7200000,
+		"Secret": false
+	}, {
+		"Id": 14,
+		"Region": "Japan",
+		"Chapter": 15,
+		"Name": "Hidden Ninja Village ",
+		"Minimum Budget": 8000000,
+		"Secret": false
+	}, {
+		"Id": 15,
+		"Region": "N. America",
+		"Chapter": 0,
+		"Name": "The Jackal ",
+		"Minimum Budget": 104000,
+		"Secret": false
+	}, {
+		"Id": 16,
+		"Region": "N. America",
+		"Chapter": 0,
+		"Name": "Inuit Village ",
+		"Minimum Budget": 112000,
+		"Secret": false
+	}, {
+		"Id": 17,
+		"Region": "N. America",
+		"Chapter": 4,
+		"Name": "Grand Canyon ",
+		"Minimum Budget": 560000,
+		"Secret": false
+	}, {
+		"Id": 18,
+		"Region": "N. America",
+		"Chapter": 4,
+		"Name": "Susahi Bar BANZAI ",
+		"Minimum Budget": 520000,
+		"Secret": false
+	}, {
+		"Id": 19,
+		"Region": "N. America",
+		"Chapter": 4,
+		"Name": "Rocky Mountains ",
+		"Minimum Budget": 480000,
+		"Secret": false
+	}, {
+		"Id": 20,
+		"Region": "N. America",
+		"Chapter": 7,
+		"Name": "Secret Base in Nevada ",
+		"Minimum Budget": 2000000,
+		"Secret": false
+	}, {
+		"Id": 21,
+		"Region": "N. America",
+		"Chapter": 11,
+		"Name": "NYC Mafia ",
+		"Minimum Budget": 4800000,
+		"Secret": false
+	}, {
+		"Id": 22,
+		"Region": "N. America",
+		"Chapter": 11,
+		"Name": "Mafia EL-38 ",
+		"Minimum Budget": 56000000,
+		"Secret": false
+	}, {
+		"Id": 23,
+		"Region": "N. America",
+		"Chapter": 15,
+		"Name": "Mexican Mafia ",
+		"Minimum Budget": 9600000,
+		"Secret": false
+	}, {
+		"Id": 24,
+		"Region": "N. America",
+		"Chapter": 15,
+		"Name": "Washington D.C. Bar",
+		"Minimum Budget": 16000000,
+		"Secret": true
+	}, {
+		"Id": 25,
+		"Region": "S. America",
+		"Chapter": 4,
+		"Name": "Jungle ",
+		"Minimum Budget": 600000,
+		"Secret": false
+	}, {
+		"Id": 26,
+		"Region": "S. America",
+		"Chapter": 7,
+		"Name": "Brazilian Mafia ",
+		"Minimum Budget": 2160000,
+		"Secret": false
+	}, {
+		"Id": 27,
+		"Region": "S. America",
+		"Chapter": 11,
+		"Name": "Columbian Cartels ",
+		"Minimum Budget": 4960000,
+		"Secret": false
+	}, {
+		"Id": 28,
+		"Region": "S. America",
+		"Chapter": 11,
+		"Name": "Black Market ",
+		"Minimum Budget": 5120000,
+		"Secret": false
+	}, {
+		"Id": 29,
+		"Region": "S. America",
+		"Chapter": 15,
+		"Name": "Phantom air city (? probability appearance)",
+		"Minimum Budget": 16000000,
+		"Secret": true
+	}, {
+		"Id": 30,
+		"Region": "E. Asia",
+		"Chapter": 7,
+		"Name": "Underground Market ",
+		"Minimum Budget": 16000000,
+		"Secret": false
+	}, {
+		"Id": 31,
+		"Region": "E. Asia",
+		"Chapter": 7,
+		"Name": "Tianlin Temple ",
+		"Minimum Budget": 1760000,
+		"Secret": false
+	}, {
+		"Id": 32,
+		"Region": "E. Asia",
+		"Chapter": 11,
+		"Name": "Lubao Teahouse ",
+		"Minimum Budget": 4000000,
+		"Secret": false
+	}, {
+		"Id": 33,
+		"Region": "E. Asia",
+		"Chapter": 11,
+		"Name": "Kowloon Walled City ",
+		"Minimum Budget": 4640000,
+		"Secret": true
+	}, {
+		"Id": 34,
+		"Region": "E. Asia",
+		"Chapter": 15,
+		"Name": "5JC ",
+		"Minimum Budget": 8800000,
+		"Secret": false
+	}, {
+		"Id": 35,
+		"Region": "W. Asia",
+		"Chapter": 0,
+		"Name": "Ganges Delta ",
+		"Minimum Budget": 76000,
+		"Secret": false
+	}, {
+		"Id": 36,
+		"Region": "W. Asia",
+		"Chapter": 0,
+		"Name": "Night Market ",
+		"Minimum Budget": 88000,
+		"Secret": false
+	}, {
+		"Id": 37,
+		"Region": "W. Asia",
+		"Chapter": 4,
+		"Name": "Liberation Army Camp ",
+		"Minimum Budget": 576000,
+		"Secret": false
+	}, {
+		"Id": 38,
+		"Region": "W. Asia",
+		"Chapter": 7,
+		"Name": "Indian Nobility ",
+		"Minimum Budget": 1600000,
+		"Secret": false
+	}, {
+		"Id": 39,
+		"Region": "W. Asia",
+		"Chapter": 7,
+		"Name": "Black Market Auction ",
+		"Minimum Budget": 2400000,
+		"Secret": false
+	}, {
+		"Id": 40,
+		"Region": "W. Asia",
+		"Chapter": 11,
+		"Name": "Nomad Camp ",
+		"Minimum Budget": 4640000,
+		"Secret": false
+	}, {
+		"Id": 41,
+		"Region": "W. Asia",
+		"Chapter": 11,
+		"Name": "Arab Mafia ",
+		"Minimum Budget": 4800000,
+		"Secret": false
+	}, {
+		"Id": 42,
+		"Region": "W. Asia",
+		"Chapter": 15,
+		"Name": "Arab Royalty ",
+		"Minimum Budget": 20000000,
+		"Secret": true
+	}, {
+		"Id": 43,
+		"Region": "E. Europe",
+		"Chapter": 7,
+		"Name": "Balkan Mafia ",
+		"Minimum Budget": 2000000,
+		"Secret": false
+	}, {
+		"Id": 44,
+		"Region": "E. Europe",
+		"Chapter": 11,
+		"Name": "Variety Shop Khorosho ",
+		"Minimum Budget": 4640000,
+		"Secret": false
+	}, {
+		"Id": 45,
+		"Region": "E. Europe",
+		"Chapter": 15,
+		"Name": "Kak Dela",
+		"Minimum Budget": 9600000,
+		"Secret": false
+	}, {
+		"Id": 46,
+		"Region": "W. Europe",
+		"Chapter": 0,
+		"Name": "Soccer Stadium ",
+		"Minimum Budget": 76000,
+		"Secret": false
+	}, {
+		"Id": 47,
+		"Region": "W. Europe",
+		"Chapter": 7,
+		"Name": "The Napolitano Family ",
+		"Minimum Budget": 560000,
+		"Secret": false
+	}, {
+		"Id": 48,
+		"Region": "W. Europe",
+		"Chapter": 7,
+		"Name": "Underground Organization ",
+		"Minimum Budget": 1920000,
+		"Secret": false
+	}, {
+		"Id": 49,
+		"Region": "W. Europe",
+		"Chapter": 11,
+		"Name": "Sicilian Union ",
+		"Minimum Budget": 4800000,
+		"Secret": false
+	}, {
+		"Id": 50,
+		"Region": "W. Europe",
+		"Chapter": 11,
+		"Name": "The Guild ",
+		"Minimum Budget": 4880000,
+		"Secret": false
+	}, {
+		"Id": 51,
+		"Region": "W. Europe",
+		"Chapter": 11,
+		"Name": "A decayed temple (Probaiblity)",
+		"Minimum Budget": 4000000,
+		"Secret": true
+	}, {
+		"Id": 52,
+		"Region": "W. Europe",
+		"Chapter": 15,
+		"Name": "Corsican Mafia ",
+		"Minimum Budget": 11200000,
+		"Secret": false
+	}, {
+		"Id": 53,
+		"Region": "Africa",
+		"Chapter": 7,
+		"Name": "Marketplace ",
+		"Minimum Budget": 560000,
+		"Secret": false
+	}, {
+		"Id": 54,
+		"Region": "Africa",
+		"Chapter": 11,
+		"Name": "Giza: Ancient Ruins ",
+		"Minimum Budget": 4640000,
+		"Secret": false
+	}, {
+		"Id": 55,
+		"Region": "Africa",
+		"Chapter": 11,
+		"Name": "Zimbabwe: Ancient Ruins ",
+		"Minimum Budget": 4800000,
+		"Secret": true
+	}, {
+		"Id": 56,
+		"Region": "Africa",
+		"Chapter": 15,
+		"Name": "Somali Coast ",
+		"Minimum Budget": 14400000,
+		"Secret": false
+	}, {
+		"Id": 57,
+		"Region": "Arctic",
+		"Chapter": 15,
+		"Name": "North Pole",
+		"Minimum Budget": 56000000,
+		"Secret": true
+	}
+]

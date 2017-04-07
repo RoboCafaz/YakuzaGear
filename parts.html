@@ -1,0 +1,53 @@
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<h2><i class="fa fa-certificate"></i> Parts</h2>
+	</div>
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>
+					Id
+				</th>
+				<th>
+					Name
+				</th>
+				<th>
+					Rarity
+				</th>
+				<th>
+					Availability
+				</th>
+				<th>
+					Guaranteed
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="Part in Parts">
+				<td>
+					{{Part.Id}}
+				</td>
+				<td>
+					{{Part.Name}}
+				</td>
+				<td>
+					{{Part.Rarity}}
+				</td>
+				<td>
+					<ul>
+						<li ng-repeat="Location in Part.Available">
+							<a ng-href="#!/locations/{{Location.Id}}">{{Location.Region}} - {{Location.Name}}</a>
+						</li>
+					</ul>
+				</td>
+				<td>
+					<ul>
+						<li ng-repeat="Location in Part.Guaranteed">
+							<a ng-href="#!/locations/{{Location.Id}}">{{Location.Region}} - {{Location.Name}}</a>
+						</li>
+					</ul>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
