@@ -1,6 +1,6 @@
 <div class="panel panel-default">
 	<div class="panel-heading">
-		<h2><i class="fa fa-certificate"></i> Parts</h2>
+		<i class="fa fa-certificate"></i> Parts
 	</div>
 	<table class="table table-striped">
 		<thead>
@@ -36,14 +36,15 @@
 				<td>
 					<ul>
 						<li ng-repeat="Location in Part.Available">
-							<a ng-href="#!/locations/{{Location.Id}}">{{Location.Region}} - {{Location.Name}}</a>
+							<a ng-href="#!/locations/{{Location.Id}}&part={{Part.Id}}">{{Location.Region}} - {{Location.Name}}</a>
 						</li>
 					</ul>
 				</td>
 				<td>
 					<ul>
 						<li ng-repeat="Location in Part.Guaranteed">
-							<a ng-href="#!/locations/{{Location.Id}}">{{Location.Region}} - {{Location.Name}}</a>
+							<i class="fa fa-fw fa-hourglass-o" ng-show="{{Location.Secret}}"></i> 
+							<a ng-href="#!/locations/{{Location.Id}}&part={{Part.Id}}">{{Location.Region}} - {{Location.Name}}</a>
 						</li>
 					</ul>
 				</td>

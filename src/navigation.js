@@ -36,6 +36,12 @@ app.component("navComponent", {
 	]
 });
 
+app.component("homeComponent", {
+	templateUrl: "home.html",
+	controller: [function () {}
+	]
+});
+
 app.component("locationsComponent", {
 	templateUrl: "locations.html",
 	controller: [function () {}
@@ -65,8 +71,30 @@ app.component("partsComponent", {
 	controller: ["$scope", "datasets", function ($scope, datasets) {
 			$scope.Title = "Parts";
 			$scope.Parts = []
-			datasets.parts().then(function (data) {
-				$scope.Parts = data;
+
+			datasets.parts().then(function (items) {
+				datasets.locations().then(function (locs) {
+					var matchId = function (id) {
+						var location = locs.find(function (loc) {
+								return loc.Id === id
+							});
+						return {
+							Id: id,
+							Region: location ? location.Region : "Unknown",
+							Name: location ? location.Name : "Unknown",
+							Secret: location ? location.Secret : false
+						};
+					};
+					$scope.Parts = items.map(function (part) {
+							return {
+								Id: part.Id,
+								Name: part.Name,
+								Rarity: part.Rarity,
+								Available: part.Available.map(matchId),
+								Guaranteed: part.Guaranteed.map(matchId)
+							}
+						});
+				});
 			});
 		}
 	]
